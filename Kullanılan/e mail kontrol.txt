@@ -1,0 +1,17 @@
+https://mustafabukulmez.com/2018/07/18/c-e-mail-kontrolu-net-mail/
+
+
+using System.Net.Mail;
+
+public static bool Email_Format_Kontrol(string email)
+        {
+            try
+            {
+                MailAddress m = new MailAddress(email);
+                return true;
+            }
+            catch 
+            {
+                return false;
+            }
+        }

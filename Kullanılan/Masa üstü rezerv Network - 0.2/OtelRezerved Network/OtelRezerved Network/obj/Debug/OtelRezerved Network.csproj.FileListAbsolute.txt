@@ -1,0 +1,22 @@
+D:\Special Disk\VeriTabani\Masa üstü rezerv Network\OtelRezerved Network\OtelRezerved Network\bin\Debug\OtelRezerved Network.exe.config
+D:\Special Disk\VeriTabani\Masa üstü rezerv Network\OtelRezerved Network\OtelRezerved Network\bin\Debug\OtelRezerved Network.exe
+D:\Special Disk\VeriTabani\Masa üstü rezerv Network\OtelRezerved Network\OtelRezerved Network\bin\Debug\OtelRezerved Network.pdb
+D:\Special Disk\VeriTabani\Masa üstü rezerv Network\OtelRezerved Network\OtelRezerved Network\obj\Debug\OtelRezerved Network.csproj.AssemblyReference.cache
+D:\Special Disk\VeriTabani\Masa üstü rezerv Network\OtelRezerved Network\OtelRezerved Network\obj\Debug\OtelRezerved_Network.Form1.resources
+D:\Special Disk\VeriTabani\Masa üstü rezerv Network\OtelRezerved Network\OtelRezerved Network\obj\Debug\OtelRezerved_Network.Form2.resources
+D:\Special Disk\VeriTabani\Masa üstü rezerv Network\OtelRezerved Network\OtelRezerved Network\obj\Debug\OtelRezerved_Network.Properties.Resources.resources
+D:\Special Disk\VeriTabani\Masa üstü rezerv Network\OtelRezerved Network\OtelRezerved Network\obj\Debug\OtelRezerved Network.csproj.GenerateResource.cache
+D:\Special Disk\VeriTabani\Masa üstü rezerv Network\OtelRezerved Network\OtelRezerved Network\obj\Debug\OtelRezerved Network.csproj.CoreCompileInputs.cache
+D:\Special Disk\VeriTabani\Masa üstü rezerv Network\OtelRezerved Network\OtelRezerved Network\obj\Debug\OtelRezerved Network.exe
+D:\Special Disk\VeriTabani\Masa üstü rezerv Network\OtelRezerved Network\OtelRezerved Network\obj\Debug\OtelRezerved Network.pdb
+D:\Special Disk\VeriTabani\Kullanılan\Masa üstü rezerv Network\OtelRezerved Network\OtelRezerved Network\bin\Debug\OtelRezerved Network.exe.config
+D:\Special Disk\VeriTabani\Kullanılan\Masa üstü rezerv Network\OtelRezerved Network\OtelRezerved Network\bin\Debug\OtelRezerved Network.exe
+D:\Special Disk\VeriTabani\Kullanılan\Masa üstü rezerv Network\OtelRezerved Network\OtelRezerved Network\bin\Debug\OtelRezerved Network.pdb
+D:\Special Disk\VeriTabani\Kullanılan\Masa üstü rezerv Network\OtelRezerved Network\OtelRezerved Network\obj\Debug\OtelRezerved Network.csproj.AssemblyReference.cache
+D:\Special Disk\VeriTabani\Kullanılan\Masa üstü rezerv Network\OtelRezerved Network\OtelRezerved Network\obj\Debug\OtelRezerved_Network.Form1.resources
+D:\Special Disk\VeriTabani\Kullanılan\Masa üstü rezerv Network\OtelRezerved Network\OtelRezerved Network\obj\Debug\OtelRezerved_Network.Form2.resources
+D:\Special Disk\VeriTabani\Kullanılan\Masa üstü rezerv Network\OtelRezerved Network\OtelRezerved Network\obj\Debug\OtelRezerved_Network.Properties.Resources.resources
+D:\Special Disk\VeriTabani\Kullanılan\Masa üstü rezerv Network\OtelRezerved Network\OtelRezerved Network\obj\Debug\OtelRezerved Network.csproj.GenerateResource.cache
+D:\Special Disk\VeriTabani\Kullanılan\Masa üstü rezerv Network\OtelRezerved Network\OtelRezerved Network\obj\Debug\OtelRezerved Network.csproj.CoreCompileInputs.cache
+D:\Special Disk\VeriTabani\Kullanılan\Masa üstü rezerv Network\OtelRezerved Network\OtelRezerved Network\obj\Debug\OtelRezerved Network.exe
+D:\Special Disk\VeriTabani\Kullanılan\Masa üstü rezerv Network\OtelRezerved Network\OtelRezerved Network\obj\Debug\OtelRezerved Network.pdb

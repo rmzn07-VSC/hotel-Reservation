@@ -1,0 +1,157 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Special Disk\\VeriTabani\\Kullan\u0131lan\\Masa \u00FCst\u00FC rezerv Network\\OtelRezerved Network\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D095A2D3-D6E6-401E-9AED-B28929B9B8A9}|OtelRezerved Network\\OtelRezerved Network.csproj|d:\\special disk\\veritabani\\kullan\u0131lan\\masa \u00FCst\u00FC rezerv network\\otelrezerved network\\otelrezerved network\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D095A2D3-D6E6-401E-9AED-B28929B9B8A9}|OtelRezerved Network\\OtelRezerved Network.csproj|solutionrelative:otelrezerved network\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D095A2D3-D6E6-401E-9AED-B28929B9B8A9}|OtelRezerved Network\\OtelRezerved Network.csproj|d:\\special disk\\veritabani\\kullan\u0131lan\\masa \u00FCst\u00FC rezerv network\\otelrezerved network\\otelrezerved network\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D095A2D3-D6E6-401E-9AED-B28929B9B8A9}|OtelRezerved Network\\OtelRezerved Network.csproj|solutionrelative:otelrezerved network\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D095A2D3-D6E6-401E-9AED-B28929B9B8A9}|OtelRezerved Network\\OtelRezerved Network.csproj|d:\\special disk\\veritabani\\kullan\u0131lan\\masa \u00FCst\u00FC rezerv network\\otelrezerved network\\otelrezerved network\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D095A2D3-D6E6-401E-9AED-B28929B9B8A9}|OtelRezerved Network\\OtelRezerved Network.csproj|solutionrelative:otelrezerved network\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D095A2D3-D6E6-401E-9AED-B28929B9B8A9}|OtelRezerved Network\\OtelRezerved Network.csproj|d:\\special disk\\veritabani\\kullan\u0131lan\\masa \u00FCst\u00FC rezerv network\\otelrezerved network\\otelrezerved network\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D095A2D3-D6E6-401E-9AED-B28929B9B8A9}|OtelRezerved Network\\OtelRezerved Network.csproj|solutionrelative:otelrezerved network\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D095A2D3-D6E6-401E-9AED-B28929B9B8A9}|OtelRezerved Network\\OtelRezerved Network.csproj|d:\\special disk\\veritabani\\kullan\u0131lan\\masa \u00FCst\u00FC rezerv network\\otelrezerved network\\otelrezerved network\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D095A2D3-D6E6-401E-9AED-B28929B9B8A9}|OtelRezerved Network\\OtelRezerved Network.csproj|solutionrelative:otelrezerved network\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D095A2D3-D6E6-401E-9AED-B28929B9B8A9}|OtelRezerved Network\\OtelRezerved Network.csproj|d:\\special disk\\veritabani\\kullan\u0131lan\\masa \u00FCst\u00FC rezerv network\\otelrezerved network\\otelrezerved network\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D095A2D3-D6E6-401E-9AED-B28929B9B8A9}|OtelRezerved Network\\OtelRezerved Network.csproj|solutionrelative:otelrezerved network\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D095A2D3-D6E6-401E-9AED-B28929B9B8A9}|OtelRezerved Network\\OtelRezerved Network.csproj|d:\\special disk\\veritabani\\kullan\u0131lan\\masa \u00FCst\u00FC rezerv network\\otelrezerved network\\otelrezerved network\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D095A2D3-D6E6-401E-9AED-B28929B9B8A9}|OtelRezerved Network\\OtelRezerved Network.csproj|solutionrelative:otelrezerved network\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "D:\\Special Disk\\VeriTabani\\Kullan\u0131lan\\Masa \u00FCst\u00FC rezerv Network\\OtelRezerved Network\\OtelRezerved Network\\Form2.cs",
+              "RelativeDocumentMoniker": "OtelRezerved Network\\Form2.cs",
+              "ToolTip": "D:\\Special Disk\\VeriTabani\\Kullan\u0131lan\\Masa \u00FCst\u00FC rezerv Network\\OtelRezerved Network\\OtelRezerved Network\\Form2.cs",
+              "RelativeToolTip": "OtelRezerved Network\\Form2.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAowD0AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-26T16:08:27.201Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form2.cs [Tasar\u0131m]",
+              "DocumentMoniker": "D:\\Special Disk\\VeriTabani\\Kullan\u0131lan\\Masa \u00FCst\u00FC rezerv Network\\OtelRezerved Network\\OtelRezerved Network\\Form2.cs",
+              "RelativeDocumentMoniker": "OtelRezerved Network\\Form2.cs",
+              "ToolTip": "D:\\Special Disk\\VeriTabani\\Kullan\u0131lan\\Masa \u00FCst\u00FC rezerv Network\\OtelRezerved Network\\OtelRezerved Network\\Form2.cs [Tasar\u0131m]",
+              "RelativeToolTip": "OtelRezerved Network\\Form2.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-04T19:45:53.546Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "D:\\Special Disk\\VeriTabani\\Kullan\u0131lan\\Masa \u00FCst\u00FC rezerv Network\\OtelRezerved Network\\OtelRezerved Network\\Form1.cs",
+              "RelativeDocumentMoniker": "OtelRezerved Network\\Form1.cs",
+              "ToolTip": "D:\\Special Disk\\VeriTabani\\Kullan\u0131lan\\Masa \u00FCst\u00FC rezerv Network\\OtelRezerved Network\\OtelRezerved Network\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "OtelRezerved Network\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-26T15:37:43.583Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form3.cs",
+              "DocumentMoniker": "D:\\Special Disk\\VeriTabani\\Kullan\u0131lan\\Masa \u00FCst\u00FC rezerv Network\\OtelRezerved Network\\OtelRezerved Network\\Form3.cs",
+              "RelativeDocumentMoniker": "OtelRezerved Network\\Form3.cs",
+              "ToolTip": "D:\\Special Disk\\VeriTabani\\Kullan\u0131lan\\Masa \u00FCst\u00FC rezerv Network\\OtelRezerved Network\\OtelRezerved Network\\Form3.cs",
+              "RelativeToolTip": "OtelRezerved Network\\Form3.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-04T19:46:06.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form3.cs [Tasar\u0131m]",
+              "DocumentMoniker": "D:\\Special Disk\\VeriTabani\\Kullan\u0131lan\\Masa \u00FCst\u00FC rezerv Network\\OtelRezerved Network\\OtelRezerved Network\\Form3.cs",
+              "RelativeDocumentMoniker": "OtelRezerved Network\\Form3.cs",
+              "ToolTip": "D:\\Special Disk\\VeriTabani\\Kullan\u0131lan\\Masa \u00FCst\u00FC rezerv Network\\OtelRezerved Network\\OtelRezerved Network\\Form3.cs [Tasar\u0131m]",
+              "RelativeToolTip": "OtelRezerved Network\\Form3.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-29T16:47:57.918Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form4.cs [Tasar\u0131m]",
+              "DocumentMoniker": "D:\\Special Disk\\VeriTabani\\Kullan\u0131lan\\Masa \u00FCst\u00FC rezerv Network\\OtelRezerved Network\\OtelRezerved Network\\Form4.cs",
+              "RelativeDocumentMoniker": "OtelRezerved Network\\Form4.cs",
+              "ToolTip": "D:\\Special Disk\\VeriTabani\\Kullan\u0131lan\\Masa \u00FCst\u00FC rezerv Network\\OtelRezerved Network\\OtelRezerved Network\\Form4.cs [Tasar\u0131m]",
+              "RelativeToolTip": "OtelRezerved Network\\Form4.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-08T19:36:50.743Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "0cbd027a-52b1-491f-b93b-6d13f1984a23",
+        "Display": 1,
+        "X": -5,
+        "Y": 79,
+        "Width": 1324,
+        "Height": 958,
+        "WindowState": 2
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Special Disk\\VeriTabani\\Kullan\u0131lan\\Masa \u00FCst\u00FC rezerv Network\\OtelRezerved Network\\OtelRezerved Network\\Form1.cs",
+              "RelativeDocumentMoniker": "OtelRezerved Network\\Form1.cs",
+              "ToolTip": "D:\\Special Disk\\VeriTabani\\Kullan\u0131lan\\Masa \u00FCst\u00FC rezerv Network\\OtelRezerved Network\\OtelRezerved Network\\Form1.cs",
+              "RelativeToolTip": "OtelRezerved Network\\Form1.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAEwGIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-27T18:39:02.136Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
